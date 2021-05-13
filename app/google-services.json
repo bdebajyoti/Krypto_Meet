@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1050985411418",
+    "firebase_url": "https://krypto-connect-d1806.firebaseio.com",
+    "project_id": "krypto-connect-d1806",
+    "storage_bucket": "krypto-connect-d1806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050985411418:android:0284f5824c0f3bda01f963",
+        "android_client_info": {
+          "package_name": "com.selfowner.kryptomeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050985411418-2bpgqr1m5n0jg6pfe8svlff2071oolo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGn_f0Fd42hpG69BD8jCIr1h_26apvscI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050985411418-2bpgqr1m5n0jg6pfe8svlff2071oolo8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

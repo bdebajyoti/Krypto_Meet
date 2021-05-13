@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:id="@+id/AppProfile">
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/account"
+            android:title="My Profile"/>
+        <item
+            android:id="@+id/instant"
+            android:icon="@drawable/instant"
+            android:title="Instant History"/>
+        <item
+            android:id="@+id/join_history"
+            android:icon="@drawable/history"
+            android:title="Join History"/>
+    </group>
+    <group android:id="@+id/groupOpen1">
+        <item
+            android:id="@+id/page_3"
+            android:icon="@drawable/aboutus"
+            android:title="About Us"/>
+        <item
+            android:id="@+id/apptheme"
+            android:icon="@drawable/theme"
+            android:title="Light Mode"/>
+    </group>
+    <group android:id="@+id/groupRate">
+        <item
+            android:id="@+id/page_6"
+            android:icon="@drawable/share"
+            android:title="Share"/>
+        <item
+            android:id="@+id/page_7"
+            android:icon="@drawable/rateus"
+            android:title="Rate Us"/>
+        <item
+            android:id="@+id/feedback"
+            android:icon="@drawable/feedback"
+            android:title="FeedBack"/>
+    </group>
+    <group android:id="@+id/groupClose">
+        <item
+            android:id="@+id/page_8"
+            android:icon="@drawable/closeapp"
+            android:title="Close"/>
+        <item
+            android:id="@+id/page_9"
+            android:icon="@drawable/logout"
+            android:title="Logout"/>
+    </group>
+</menu>

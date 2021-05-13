@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Krypto Connect</string>
+    <string name="login">Login</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="signup">
+        Not a Member yet? Sign Up here.
+    </string>
+    <string name="facebook_app_id">290858775346790</string>
+    <string name="fb_login_protocol_scheme">fb290858775346790</string>
+
+    <!-- about -->
+    <string name="about">
+        This is our local made video conferencing mobile application. Here user or creator can add 100+ users free of cost.
+        It is developed by us for teachers, inistitutions,colleges,academic tutors, etc. Here we also try to add our own real time connection method for country and more security purpose.
+        We Further Build New Products Related To Video Conferencing.
+    </string>
+    <!-- Settings -->
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="default_gallery_storage">My Videos</string>
+    <string name="title_auto_upload">Auto upload</string>
+    <string name="summary_upload_over_wifi">Upload the videos when wifi is available</string>
+    <string name="title_upload_quality">Upload Quality</string>
+    <string name="summary_upload_video_quality">Specify video quality for uploads</string>
+    <string name="pref_title_notifications">Notifications</string>
+    <string name="summary_choose_ringtone">Choose notification sound</string>
+    <string name="pref_header_about">About</string>
+    <string name="summary_about">We Krypto Developers Pvt Ltd Build This Project For Performing The Video Call Conference On Stable Manner. It Is Our Self Creation For Teachers,Students,Institutions,etc. It Is Very Important Tool For On Going Situation And Upcoming Situation.</string>
+    <string name="app_version">1.0.1</string>
+    <string name="summary_support">Got any queries? We are happy to help! Please Email Us</string>
+    <string name="title_send_feedback">Send Feedback</string>
+    <string name="title_faq">FAQ</string>
+    <string name="summary_faq">View frequently asked questions</string>
+    <string name="url_faq">https://krypto-academy-comme.flycricket.io/privacy.html</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="url_privacy">https://krypto-academy-comme.flycricket.io/privacy.html</string>
+    <string name="title_terms">Terms &amp; Conditions</string>
+    <string name="url_terms">https://krypto-views.web.app/</string>
+    <string name="title_version">Version</string>
+    <string name="choose_email_client">Choose email client</string>
+    <string name="title_gallery_storage">Default Storage</string>
+    <string name="title_new_notification_sound">New message notification</string>
+    <string name="title_vibrate">Darcula Theme</string>
+    <string name="summary_vibrate">Current theme will be changed</string>
+    <string name="key_upload_over_wifi">key_upload_over_wifi</string>
+    <string name="key_gallery_name">key_gallery_name</string>
+    <string name="key_upload_quality">key_upload_quality</string>
+    <string name="notifications_new_message">notifications_new_message</string>
+    <string name="key_notifications_new_message_ringtone">key_notifications_new_message_ringtone</string>
+    <string name="key_vibrate">key_vibrate</string>
+    <string name="key_send_feedback">key_send_feedback</string>
+    <string name="step1">
+        In this application user can create the meeting on Intant/Future basis.
+    </string>
+    <string name="step2">
+        In Instant Meet, an user can make instant video conference where he/she need to share the information with the other users, and the users can join the video conference with the help of meeting id provided.
+    </string>
+    <string name="step3">
+        In Future meet, an user need to set the information of future meeting along with date and time and after that he/she can share the information with the other users who will join the video conference using meeting id provided.
+    </string>
+    <string name="step4">
+        In this application, the user can view the meeting history on the basis of Joining Mode and Instant Mode, as here they can clear the history as well.
+    </string>
+    <string name="step5">
+        In Pick Date, an user select the meet on the basis of date and start meeting, as during meeting creation he/she need to share the future meeting information to all the users.
+    </string>
+    <string name="step6">
+        Please Make Feedback, Do Share The Application and Rate Our Application. As on the basis of ur suggestion we develop features on our application.
+    </string>
+    <string name="need_a_new_account">NEED A NEW ACCOUNT ?</string>
+    <string name="display_name">Display Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="log_out">Log Out</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_status">Hi there, I\'m using Lapit Chat App</string>
+    <string name="title_activity_chat_window">ChatWindow</string>
+    <string name="fragchat">Chats</string>
+    <string name="fragcontact">Contacts</string>
+</resources>

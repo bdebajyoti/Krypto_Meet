@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.selfowner.kryptomeet">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/imagelogo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/imagelogo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".ChatWindow"
+            android:label="@string/title_activity_chat_window"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity android:name=".SettingsActivity" />
+        <activity android:name=".Profile" />
+        <activity android:name=".Registration_Page" />
+        <activity android:name=".AboutActivity" />
+        <activity android:name=".User_Dashboard" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".SendMail" />
+        <activity android:name=".CreateMeet" />
+        <activity android:name=".History" />
+        <activity android:name=".InstantHistory" />
+        <activity android:name=".Instant_Meet" />
+        <activity android:name=".Future_Meet" />
+        <activity android:name=".Switch_Mode" />
+        <activity android:name=".DatePickerClass" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

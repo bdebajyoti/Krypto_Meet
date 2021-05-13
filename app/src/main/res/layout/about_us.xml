@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_margin="15dp"
+    android:layout_gravity="center"
+    android:padding="10dp"
+    android:gravity="center">
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/rateus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:text="@string/about"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:layout_gravity="center"
+        />
+<com.google.android.material.textview.MaterialTextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="KRYPTO CONNECT"
+    android:textSize="22sp"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:layout_marginTop="15dp"
+    android:textStyle="bold"
+    android:textColor="#000000"
+    android:fontFamily="@font/ubuntu"
+    />
+    <com.google.android.material.textview.MaterialTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:gravity="center"
+        android:text="POWEREDBY"
+        style="?attr/materialThemeOverlay"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:textColor="#00838F"/>
+    <com.google.android.material.textview.MaterialTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:gravity="center"
+        android:text="Krypto Developers Pvt. Ltd."
+        style="?attr/materialThemeOverlay"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:textColor="#041067"/>
+    <ImageView
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:src="@drawable/logo"
+        android:layout_gravity="center"
+        />
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/animationView"
+        android:layout_width="300dp"
+        android:layout_height="250dp"
+        app:lottie_rawRes="@raw/promo"
+        android:layout_gravity="center"
+        app:lottie_autoPlay="true"
+        android:layout_marginLeft="42dp"
+        app:lottie_loop="true"/>
+
+</LinearLayout>
